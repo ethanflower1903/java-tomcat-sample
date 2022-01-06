@@ -4,6 +4,7 @@ This is an example ready-to-deploy java web application built for Tomcat using M
 
 ## Running Locally
 
+oooo
 (need maven and java installed)
 
 ```
